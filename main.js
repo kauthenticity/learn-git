@@ -3,3 +3,4 @@ console.log("main2");
 console.log("feat1");
 
 console.log("rebase --i test 1");
+console.log("rebase --i test 2");
